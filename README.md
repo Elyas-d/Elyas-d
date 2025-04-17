@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elyas-d
+- 👋 Hi, I’m Elyas Damenu
 - 👀 I’m interested in Web Develoment and Security
 - 🌱 I’m currently learning back-end development and api testing
 - 💞️ I’m looking to collaborate on any backend projects
